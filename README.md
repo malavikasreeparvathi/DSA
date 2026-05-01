@@ -13,3 +13,15 @@ This repository tracks my daily progress in Data Structures and Algorithms using
 
 ## 🔗 Platforms
 - LeetCode
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/malavikasreeparvathi/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/malavikasreeparvathi/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+<!---LeetCode Topics End-->
